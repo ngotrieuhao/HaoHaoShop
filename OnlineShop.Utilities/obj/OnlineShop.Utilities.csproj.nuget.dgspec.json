@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\haodepzai\\Final project App\\OnlineShop\\OnlineShop.Utilities\\OnlineShop.Utilities.csproj": {}
+  },
+  "projects": {
+    "C:\\haodepzai\\Final project App\\OnlineShop\\OnlineShop.Utilities\\OnlineShop.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\haodepzai\\Final project App\\OnlineShop\\OnlineShop.Utilities\\OnlineShop.Utilities.csproj",
+        "projectName": "OnlineShop.Utilities",
+        "projectPath": "C:\\haodepzai\\Final project App\\OnlineShop\\OnlineShop.Utilities\\OnlineShop.Utilities.csproj",
+        "packagesPath": "C:\\Users\\THPB\\.nuget\\packages\\",
+        "outputPath": "C:\\haodepzai\\Final project App\\OnlineShop\\OnlineShop.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\THPB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1084 @@
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\en\OnlineShop.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\vi\OnlineShop.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\LazZiya.ExpressLocalization.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\LazZiya.TagHelpers.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ExpressLocalizationResource.en.resources
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ExpressLocalizationResource.vi.resources
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ViewLocalizationResource.en.resources
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ViewLocalizationResource.vi.resources
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.GenerateResource.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\en\OnlineShop.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\vi\OnlineShop.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ApiIntegration.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ApiIntegration.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Category.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Checkout.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SideBar\Default.cshtml.g.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\en\OnlineShop.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\vi\OnlineShop.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\LazZiya.ExpressLocalization.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\LazZiya.TagHelpers.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ApiIntegration.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ApiIntegration.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ExpressLocalizationResource.en.resources
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ExpressLocalizationResource.vi.resources
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ViewLocalizationResource.en.resources
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ViewLocalizationResource.vi.resources
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.GenerateResource.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\en\OnlineShop.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\vi\OnlineShop.resources.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Checkout.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Category.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SideBar\Default.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Markdig.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Westwind.AspNetCore.Markdown.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePasswordConfirmation.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditSuccess.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\OrderDetail.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Processing.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Coupon\Detail.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Coupon\Index.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewByCategory.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewBySearchProduct.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ConfirmEmail.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ForgotPassword.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ForgotPasswordConfirmation.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Register.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ResetPassword.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ResetPasswordConfirmation.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\SuccessRegistration.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Navigation\Default.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CommentBox.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\en\OnlineShop.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\vi\OnlineShop.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\LazZiya.ExpressLocalization.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\LazZiya.TagHelpers.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Markdig.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Westwind.AspNetCore.Markdown.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ApiIntegration.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ApiIntegration.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ExpressLocalizationResource.en.resources
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ExpressLocalizationResource.vi.resources
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ViewLocalizationResource.en.resources
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.LocalizationResources.ViewLocalizationResource.vi.resources
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.GenerateResource.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\en\OnlineShop.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\vi\OnlineShop.resources.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePasswordConfirmation.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditSuccess.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\OrderDetail.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Checkout.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Processing.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Coupon\Detail.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Coupon\Index.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewByCategory.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewBySearchProduct.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ConfirmEmail.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ForgotPassword.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ForgotPasswordConfirmation.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Register.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ResetPassword.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\ResetPasswordConfirmation.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Login\SuccessRegistration.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Category.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Navigation\Default.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SideBar\Default.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CommentBox.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache

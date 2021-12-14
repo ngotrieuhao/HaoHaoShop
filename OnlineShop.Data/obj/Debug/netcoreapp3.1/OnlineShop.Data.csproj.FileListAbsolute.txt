@@ -1,0 +1,25 @@
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.deps.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.runtimeconfig.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.runtimeconfig.dev.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.csprojAssemblyReference.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.AssemblyInfoInputs.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.AssemblyInfo.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.csproj.CoreCompileInputs.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.genruntimeconfig.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.deps.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.runtimeconfig.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.runtimeconfig.dev.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\bin\Debug\netcoreapp3.1\OnlineShop.Data.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.AssemblyInfoInputs.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.AssemblyInfo.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.csproj.CoreCompileInputs.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.genruntimeconfig.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.csproj.AssemblyReference.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Data\obj\Debug\netcoreapp3.1\OnlineShop.Data.GeneratedMSBuildEditorConfig.editorconfig

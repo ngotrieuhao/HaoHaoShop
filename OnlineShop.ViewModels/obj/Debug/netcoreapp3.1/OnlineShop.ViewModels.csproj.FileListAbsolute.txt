@@ -1,0 +1,35 @@
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.deps.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.csprojAssemblyReference.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.AssemblyInfoInputs.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.AssemblyInfo.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.csproj.CoreCompileInputs.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.deps.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.AssemblyInfoInputs.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.AssemblyInfo.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.csproj.CoreCompileInputs.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.csproj.CopyComplete
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.csproj.AssemblyReference.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.deps.json
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.ViewModels.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.pdb
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.csproj.AssemblyReference.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.AssemblyInfoInputs.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.AssemblyInfo.cs
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.csproj.CoreCompileInputs.cache
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.csproj.CopyComplete
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.dll
+C:\haodepzai\Final project App\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.1\OnlineShop.ViewModels.pdb

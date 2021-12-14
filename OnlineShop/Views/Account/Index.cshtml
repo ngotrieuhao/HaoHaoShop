@@ -1,0 +1,255 @@
+﻿@model OrderByUserViewModel
+@using OnlineShop.ViewModels.Common;
+@using OnlineShop.ViewModels.Utilities.Enums;
+
+@section Scripts{
+    <script>
+        setTimeout(function () {
+            $('#msgAlert').fadeOut('slow');
+        }, 2000);
+    </script>
+}
+
+<style>
+    .page-title h1, .page-title h2 {
+        font-size: 18px;
+        font-weight: 600;
+        margin-bottom: 0px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .page-content {
+        margin-bottom: 30px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+        .page-content .page-title,
+        .page-title {
+            margin: 0 0 5px;
+            padding: 0 0 8px;
+            border-bottom: 1px solid #e5e5e5;
+            position: relative;
+        }
+
+            .page-content .page-title:before,
+            .page-title:before {
+                position: absolute;
+                left: 0;
+                height: 3px;
+                bottom: -2px;
+                content: "";
+                background: #e83f33;
+                width: 130px;
+            }
+    .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+        text-align: center;
+    }
+
+</style>
+
+<!-- BREADCRUMB -->
+<div id="breadcrumb" class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="breadcrumb-tree">
+                    <li><a href="/">Homepage</a></li>
+                    <li>Account</li>
+                </ul>
+            </div>
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /BREADCRUMB -->
+<!-- Main Container -->
+<section class="main-container col2-right-layout">
+    <div class="main container">
+        <div class="row">
+
+            <div class="my-account">
+                <div class="page-title">
+                    <h2>Your Account</h2>
+                </div>
+                <div class="col-main col-sm-12 col-xs-12">
+                    <div class="welcome-msg">
+                        @{
+                            var claims = User.Claims.ToList();
+                            var name = claims.FirstOrDefault(x => x.Type == ClaimTypes.GivenName).Value;
+                        }
+                        <strong>Hello, @name!</strong>
+                        <p style="font-size: 16px; padding-top: 1rem;">Here you can view recent orders and update your account information.</p>
+                    </div>
+                    <div class="recent-orders">
+
+                        @if (TempData["CancelOrderSuccess"] != null)
+                        {
+                            <script>
+                                Swal.fire({
+                                    position: 'top-end',
+                                    icon: 'success',
+                                    title: 'Cancellation successfully',
+                                    showConfirmButton: false,
+                                    timer: 1500
+                                })
+                            </script>
+                        }
+                        else if (TempData["UpdateAccountSuccess"] != null)
+                        {
+                            <script>
+                                Swal.fire({
+                                    position: 'top-end',
+                                    icon: 'success',
+                                    title: 'Update information successfully',
+                                    showConfirmButton: false,
+                                    timer: 1500
+                                })
+                            </script>
+                        }
+                        else if (TempData["ChangePasswordSuccess"] != null)
+                        {
+                            <script>
+                                Swal.fire({
+                                    position: 'top-end',
+                                    icon: 'success',
+                                    title: 'Update password successfully',
+                                    showConfirmButton: false,
+                                    timer: 1500
+                                })
+                            </script>
+                        }
+
+                        <div class="title-buttons"><strong style="font-size:18px;">Recent orders</strong> <a href="#" style="float:right;">View All</a> </div>
+
+                        <div class="table-responsive">
+                            <table class="table table-bordered cart_summary table-striped" style="margin-top:10px">
+                                <colgroup>
+                                    <col>
+                                    <col>
+                                    <col>
+                                    <col width="1">
+                                    <col width="1">
+                                    <col width="1">
+                                </colgroup>
+                                <thead>
+                                    <tr class="first last" style=" background-color: #3399ff; font-size: 16px; color: white;">
+                                        <th class="text-center">
+                                            ID
+                                        </th>
+                                        <th>
+                                            Customer
+                                        </th>
+                                        <th class="text-center">
+                                            Booking Date
+                                        </th>
+                                        <th class="text-center" style="width:14rem;">
+                                            Status
+                                        </th>
+                                        <th class="text-center" style="width:12rem;">
+                                            Price
+                                        </th>
+                                        <th class="text-center" style="width:17rem;">
+                                            Order Processing
+                                        </th>
+                                        <th class="text-center">
+                                            Operation
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model.Orders)
+                                    {
+                                        <tr class="first odd">
+                                            <td>@item.Id</td>
+                                            <td>@item.Name</td>
+                                            <td class="text-center">@item.OrderDate</td>
+                                            <td class="text-center">
+                                                @{
+                                                    var status = "";
+                                                    var statusEnum = (int)item.Status;
+                                                    switch (statusEnum)
+                                                    {
+                                                        case 1:
+                                                            status = "Waiting for approval";
+                                                            break;
+                                                        case 2:
+                                                            status = "Approved";
+                                                            break;
+                                                        case 3:
+                                                            status = "Delivering";
+                                                            break;
+                                                        case 4:
+                                                            status = "Delivered";
+                                                            break;
+                                                        case 5:
+                                                            status = "Canceled";
+                                                            break;
+                                                        default:
+                                                            status = "...";
+                                                            break;
+                                                    }
+                                                }
+                                                <i>@status</i>
+                                            </td>
+                                            <td class="text-center">
+
+                                                <strong>
+                                                    @item.Price.ToString("N0")<span>&#36;</span>
+                                                </strong>
+                                            </td>
+                                            <td class="text-center">
+
+                                                @if (item.Status == (OrderStatus)1)
+                                                {
+                                                    @*@Html.ActionLink("Huỷ đơn", "CancelOrderStatus", new { orderId = item.Id })*@
+                                                    <a asp-action="CancelOrderStatus" asp-route-orderId="@item.Id">Cancellation</a>
+                                                }
+                                                else if (item.Status == (OrderStatus)2)
+                                                {
+                                                    @*@Html.ActionLink("Huỷ đơn", "CancelOrderStatus", new { orderId = item.Id })*@
+                                                    <a asp-action="CancelOrderStatus" asp-route-orderId="@item.Id">Cancellation</a>
+                                                }
+                                            </td>
+                                            <td class="text-center">
+                                                @Html.ActionLink("View details", "OrderDetail", new { orderId = item.Id, name = item.Name })
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="box-account">
+                        <div class="page-title">
+                            <h2>Account information</h2>
+                        </div>
+                        <div class="col2-set">
+                            <div class="col-1">
+                                @*<span style="text-decoration:underline">
+                                    @Html.ActionLink("Update information", "Edit", new { userid = Model.UserID })
+                                </span>*@
+                                <p style="font-size: 16px; line-height: 2;">
+                                    Name: @Model.Name<br>
+                                    Email: @Model.Email<br>
+                                    Phone Number: @Model.PhoneNumber<br>
+                                    Address: @Model.Address<br>
+                                </p>
+                                <button style="background: #3399ff; border: 0px; margin-bottom: 2rem; padding: 1rem; border-radius: 10px;">
+                                @Html.ActionLink("Update information", "Edit", new { userid = Model.UserID }, new { @style="color:white;"})
+                                </button>
+                                <br />
+                                <button style="background: #3399ff; border: 0px; padding: 1rem; border-radius: 10px;">
+                                @Html.ActionLink("Change Password", "ChangePassword", new { userid = Model.UserID }, new { @style = "color:white;" })
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

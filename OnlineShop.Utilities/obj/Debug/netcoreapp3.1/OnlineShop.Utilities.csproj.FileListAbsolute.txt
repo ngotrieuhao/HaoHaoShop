@@ -1,0 +1,19 @@
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Utilities\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.deps.json
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Utilities\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Utilities\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.pdb
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.csprojAssemblyReference.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.AssemblyInfoInputs.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.AssemblyInfo.cs
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.csproj.CoreCompileInputs.cache
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.dll
+C:\haodepzai\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.deps.json
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\bin\Debug\netcoreapp3.1\OnlineShop.Utilities.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.AssemblyInfoInputs.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.AssemblyInfo.cs
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.csproj.CoreCompileInputs.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.dll
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.pdb
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.csproj.AssemblyReference.cache
+C:\haodepzai\Backup OnlineShop\OnlineShop\OnlineShop\OnlineShop.Utilities\obj\Debug\netcoreapp3.1\OnlineShop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
