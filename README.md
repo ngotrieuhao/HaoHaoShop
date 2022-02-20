@@ -9,3 +9,10 @@
 -- Microsoft.EntityFrameworkCore.Design
 -- Microsoft.EntityFrameworkCore.SQLSever
 
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
+```
+
