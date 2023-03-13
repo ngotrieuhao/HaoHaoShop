@@ -1,0 +1,14 @@
+{
+  "cart": "Giỏ hàng",
+  "product": "Sản phẩm",
+  "price": "Giá",
+  "quantity": "Số lượng",
+  "unit price": "Đơn giá",
+  "operation": "Thao tác",
+  "delete": "Xóa",
+  "select all": "Chọn tất cả",
+  "total price": "Tổng thanh toán",
+  "order": "Mua hàng",
+  "order empty": "Giỏ hàng của bạn còn trống",
+  "buy now": "Mua ngay"
+}

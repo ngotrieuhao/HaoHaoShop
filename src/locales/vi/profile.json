@@ -1,0 +1,38 @@
+{
+  "name": "Tên",
+  "phone number": "Số điện thoại",
+  "my profile": "Hồ Sơ Của Tôi",
+  "account security": "Quản lý thông tin hồ sơ để bảo mật tài khoản",
+  "address": "Địa chỉ",
+  "date": "Ngày sinh",
+  "save": "Lưu",
+  "maximum file": "Dụng lượng file tối đa 1 MB",
+  "format": "Định dạng:.JPEG, .PNG",
+  "day": "Ngày",
+  "month": "Tháng",
+  "year": "Năm",
+  "choose image": "Chọn ảnh",
+
+  "side nav": {
+    "edit profile": "Sửa hồ sơ",
+    "my account": "Tài khoản của tôi",
+    "change password": "Đổi mật khẩu",
+    "order": "Đơn mua"
+  },
+  "password": {
+    "change password": "Đổi mật khẩu",
+    "old password": "Mật khẩu cũ",
+    "new password": "Mật khẩu mới",
+    "re-enter password": "Nhập lại mật khẩu"
+  },
+
+  "order": {
+    "total price": "Tổng giá tiền",
+    "all": "Tất cả",
+    "confirmation": "Chờ xác nhận",
+    "transport": "Chờ lấy hàng",
+    "delivery": "Đang giao",
+    "complete": "Đã giao",
+    "cancelled": "Đã hủy"
+  }
+}

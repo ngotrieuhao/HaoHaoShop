@@ -1,0 +1,37 @@
+{
+  "name": "Name",
+  "phone number": "Phone number",
+  "my profile": "My Profile",
+  "account security": "Manage profile information for account security",
+  "address": "Address",
+  "date": "Date of birth",
+  "save": "Save",
+  "maximum file": "Maximum file size 1 MB",
+  "format": "Format:.JPEG, .PNG",
+  "day": "Day",
+  "month": "Month",
+  "year": "Year",
+  "choose image": "Choose image",
+
+  "side nav": {
+    "edit profile": "Edit profile",
+    "my account": "My Account",
+    "change password": "Change password",
+    "order": "Order"
+  },
+  "password": {
+    "change password": "Change password",
+    "old password": "Old password",
+    "new password": "New password",
+    "re-enter password": "Re-enter password"
+  },
+  "order": {
+    "total price": "Total Price",
+    "all": "All",
+    "confirmation": "Confirmation",
+    "transport": "Transport",
+    "delivery": "Delivering",
+    "complete": "Complete",
+    "cancelled": "Cancelled"
+  }
+}

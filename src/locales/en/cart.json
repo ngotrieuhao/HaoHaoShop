@@ -1,0 +1,14 @@
+{
+  "cart": "Cart",
+  "product": "Product",
+  "price": "Price",
+  "quantity": "Quantiy",
+  "unit price": "Unit Price",
+  "operation": "Operation",
+  "delete": "Delete",
+  "select all": "Select All",
+  "total price": "Total Price",
+  "order": "Order",
+  "order empty": "Your shopping cart is empty",
+  "buy now": "Buy Now"
+}

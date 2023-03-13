@@ -1,0 +1,154 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  min-height: 100vh;
+  font-weight: 400;
+}
+
+.swiper.swiper-initialized.swiper-horizontal {
+  height: 450px;
+}
+
+/* .skeleton {
+  background-color: transparent;
+  background-image: linear-gradient(110deg, #ececec 8%, #f5f5f5 18%, #ececec 33%);
+  background-size: 200% 100%;
+  animation: 1.5s shine linear infinite;
+}
+
+@keyframes shine {
+  to {
+    background-position-x: -200%;
+  }
+} */
+
+.brand::before {
+  content: '';
+  width: 15px;
+  height: 6rem;
+  background-color: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  animation: flash 2s alternate linear infinite;
+}
+
+.btn-product:hover {
+  animation: slide 2s linear infinite;
+}
+
+@keyframes flash {
+  from {
+    transform: translateX(-40px);
+  }
+  to {
+    transform: translateX(150px);
+  }
+}
+
+@keyframes slide {
+  from {
+    transform: translateX(-10px);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+/* Mobile */
+@media screen and (max-width: 768px) {
+  .swiper.swiper-initialized.swiper-horizontal {
+    height: 100%;
+  }
+
+  .brand::before {
+    content: '';
+    width: 10px;
+    height: 4rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    animation: flash 2s alternate ease-in-out infinite;
+  }
+
+  @keyframes flash {
+    from {
+      transform: translateX(-20px);
+    }
+    to {
+      transform: translateX(120px);
+    }
+  }
+}
+
+.navbar__mobile {
+  /* display: block; */
+  opacity: 1;
+  padding-inline: 15px;
+  overflow: auto;
+  position: fixed;
+  top: 0;
+  background: #000;
+  color: white;
+  width: 250px;
+  height: 100%;
+  transform: translateX(0%);
+  left: 0;
+  z-index: 50;
+  transition: all linear 0.3s;
+  /* animation: slidetoRight linear 0.5s; */
+}
+
+.navbar__pc {
+  /* display: none; */
+  opacity: 0;
+  /* visibility: hidden; */
+  width: 0;
+  height: 0;
+  transform: translateX(-200px);
+}
+
+.nav__overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  /* display: block; */
+  z-index: 40;
+  user-select: none;
+  pointer-events: none;
+}
+
+.nav__input:checked ~ .navbar__mobile {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.nav__input:checked ~ .nav__overlay {
+  display: block;
+}
+
+@keyframes slidetoRight {
+  from {
+    transform: translateX(-100px);
+  }
+  to {
+    transform: translateX(0px);
+  }
+}
