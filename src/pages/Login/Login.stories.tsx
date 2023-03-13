@@ -3,7 +3,7 @@ import React from 'react'
 import { ComponentStory, ComponentMeta } from '@storybook/react'
 import Login from './Login'
 import path from 'src/constants/path'
-import RegisterLayout from 'src/layouts/RegisterLayout'
+import MainLayout from 'src/layouts/MainLayout'
 
 export default {
   title: 'pages/Login',
@@ -22,9 +22,9 @@ LoginPage.story = {
 }
 
 export const LayoutLoginPage: ComponentStory<typeof Login> = () => (
-  <RegisterLayout>
+  <MainLayout>
     <Login />
-  </RegisterLayout>
+  </MainLayout>
 )
 
 LayoutLoginPage.story = {

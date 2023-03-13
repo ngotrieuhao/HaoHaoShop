@@ -2,8 +2,8 @@ import React from 'react'
 
 import { ComponentStory, ComponentMeta } from '@storybook/react'
 import path from 'src/constants/path'
-import RegisterLayout from 'src/layouts/RegisterLayout'
 import Register from './Register'
+import MainLayout from 'src/layouts/MainLayout'
 
 export default {
   title: 'pages/Register',
@@ -22,9 +22,9 @@ RegisterPage.story = {
 }
 
 export const LayoutRegisterPage: ComponentStory<typeof Register> = () => (
-  <RegisterLayout>
+  <MainLayout>
     <Register />
-  </RegisterLayout>
+  </MainLayout>
 )
 
 LayoutRegisterPage.story = {
