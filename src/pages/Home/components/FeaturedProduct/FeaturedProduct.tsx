@@ -92,7 +92,10 @@ const FeaturedProduct = ({ name = 'Sản phẩm mới nhất', sliceStart = 0, s
                             {formatCurrency(product.price)}
                           </p>
                           <div className='group'>
-                            <Button className='j mx-auto mb-6 mt-4 flex w-[200px] items-center gap-4 rounded-full border bg-redLight p-2  text-sm font-semibold uppercase text-white transition-[color,box-shadow] duration-[500ms]  group-hover:border-redDark group-hover:text-redDark group-hover:shadow-[inset_13rem_0_0_0] group-hover:shadow-white'>
+                            <Link
+                              className='j mx-auto mb-6 mt-4 flex w-[200px] items-center gap-4 rounded-full border bg-redLight p-2  text-sm font-semibold uppercase text-white transition-[color,box-shadow] duration-[500ms]  group-hover:border-redDark group-hover:text-redDark group-hover:shadow-[inset_13rem_0_0_0] group-hover:shadow-white'
+                              to={`${path.home}${generateNameId({ name: product.name, id: product._id })}`}
+                            >
                               <svg
                                 xmlns='http://www.w3.org/2000/svg'
                                 fill='none'
@@ -108,7 +111,7 @@ const FeaturedProduct = ({ name = 'Sản phẩm mới nhất', sliceStart = 0, s
                                 />
                               </svg>
                               {t('view detail')}
-                            </Button>
+                            </Link>
                           </div>
                         </div>
                       </div>
