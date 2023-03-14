@@ -75,6 +75,13 @@ body {
 
 /* Mobile */
 @media screen and (max-width: 768px) {
+  .profile_email {
+    width: 100px;
+    overflow: hidden;
+    -webkit-line-clamp: 1;
+    text-overflow: ellipsis;
+  }
+
   .swiper.swiper-initialized.swiper-horizontal {
     height: 100%;
   }

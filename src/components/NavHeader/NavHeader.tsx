@@ -80,7 +80,7 @@ const NavHeader = () => {
       </Popover>
       {isAuthenticated && (
         <Popover
-          className='ml-6 flex  w-[150px] cursor-pointer items-center overflow-hidden py-1  hover:text-gray-300'
+          className='w[150px] ml-6  flex cursor-pointer items-center overflow-hidden py-1 hover:text-gray-300  lg:w-[250px]'
           renderPopover={
             <div>
               <Link
@@ -107,7 +107,7 @@ const NavHeader = () => {
           <div className='mr-2 h-6 w-6  flex-shrink-0 '>
             <img src={getAvatarUrl(profile?.avatar)} alt='avatar' className='h-full w-full rounded-full object-cover' />
           </div>
-          <div>{profile?.email}</div>
+          <div className='profile_email'>{profile?.email}</div>
         </Popover>
       )}
 
