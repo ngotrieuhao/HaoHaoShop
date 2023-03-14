@@ -36,9 +36,9 @@ const NavHeader = () => {
   }
 
   return (
-    <div className='flex justify-end'>
+    <div className='flex justify-between lg:justify-end'>
       <Popover
-        className='ml-6 flex cursor-pointer items-center py-1 hover:text-gray-300'
+        className='flex w-[175px] cursor-pointer items-center py-1 text-sm hover:text-gray-300 lg:ml-6 lg:w-auto lg:text-base'
         renderPopover={
           <div className='relative rounded-sm border border-gray-200 bg-white shadow-md'>
             <div className='flex flex-col py-2 px-3 pr-10'>
@@ -58,7 +58,7 @@ const NavHeader = () => {
           viewBox='0 0 24 24'
           strokeWidth={1.5}
           stroke='currentColor'
-          className='h-5 w-5'
+          className='h-4 w-4 lg:h-5 lg:w-5'
         >
           <path
             strokeLinecap='round'
@@ -73,14 +73,14 @@ const NavHeader = () => {
           viewBox='0 0 24 24'
           strokeWidth={1.5}
           stroke='currentColor'
-          className='h-5 w-5'
+          className='h-4 w-4 lg:h-5 lg:w-5'
         >
           <path strokeLinecap='round' strokeLinejoin='round' d='M19.5 8.25l-7.5 7.5-7.5-7.5' />
         </svg>
       </Popover>
       {isAuthenticated && (
         <Popover
-          className='w[150px] ml-6  flex cursor-pointer items-center overflow-hidden py-1 hover:text-gray-300  lg:w-[250px]'
+          className='flex w-[200px] cursor-pointer items-center overflow-hidden py-1 hover:text-gray-300  lg:w-[250px]'
           renderPopover={
             <div>
               <Link
@@ -112,12 +112,12 @@ const NavHeader = () => {
       )}
 
       {!isAuthenticated && (
-        <div className='flex items-center'>
-          <Link to={path.register} className='mx-3 capitalize hover:text-gray-300'>
+        <div className='flex w-[250px] items-center justify-end  lg:w-auto '>
+          <Link to={path.register} className='text-sm capitalize hover:text-gray-300 lg:ml-6 lg:text-base'>
             {t('Sign up')}
           </Link>
           <div className='h-4 border-r-[1px] border-r-white/40'></div>
-          <Link to={path.login} className='mx-3 capitalize hover:text-gray-300'>
+          <Link to={path.login} className='ml-3 text-sm capitalize hover:text-gray-300 lg:ml-3 lg:text-base'>
             {t('Sign in')}
           </Link>
         </div>

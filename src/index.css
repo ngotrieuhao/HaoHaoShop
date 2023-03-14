@@ -41,7 +41,9 @@ body {
     background-position-x: -200%;
   }
 } */
-
+/* .profile_email {
+  width: 250px;
+} */
 .brand::before {
   content: '';
   width: 15px;
@@ -76,7 +78,7 @@ body {
 /* Mobile */
 @media screen and (max-width: 768px) {
   .profile_email {
-    width: 100px;
+    width: 130px;
     overflow: hidden;
     -webkit-line-clamp: 1;
     text-overflow: ellipsis;
